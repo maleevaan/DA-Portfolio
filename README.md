@@ -16,8 +16,8 @@
 [Проекты](#проекты)
   - Python
     - [Контентный анализ новостей](#контентный-анализ-новостей)
-    - [«Ghouls, Goblins, Ghosts… boo!»](#kaggle:-«ghouls,-goblins,-ghosts…-boo!»)
-    - [Симуляция A/B-теста](#симуляция-а/b-теста) 
+    - [«Ghouls, Goblins, Ghosts… boo!»](#Kaggle:-«Ghouls,-Goblins,-Ghosts…-Boo!»)
+    - [Симуляция А/В теста](#симуляция-А/В-теста) 
   - SQL
     - [Covid 19](#covid-19)
     - [Sql-ex](#sql-ex)
