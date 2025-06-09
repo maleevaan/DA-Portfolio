@@ -22,7 +22,7 @@
     - [Исследование продуктовых метрик](#исследование_продуктовых_метрик)
     - [Sql-ex](#sql-ex)
   - Дашборды
-    -  [В даталенс про пожары]([ссылка](https://datalens.yandex.cloud/0urhszte00qgo))
+    -  [Пожары в Канаде](https://datalens.yandex.cloud/0urhszte00qgo)
 
 
 ## Проекты
