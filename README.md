@@ -104,6 +104,8 @@
 
 <img width="2029" height="1412" alt="Image" src="https://github.com/user-attachments/assets/d110a31c-83c0-4f44-a9e3-29d8560d456d" />
 
+<img width="2022" height="1420" alt="Image" src="https://github.com/user-attachments/assets/0ffd16ac-0047-4f3e-8495-2dde7c831809" />
+
 ## Образование
 2023-2025 Национальный исследовательский университет «Высшая школа экономики»
 Программа профессиональной переподготовки «Аналитик данных». 
